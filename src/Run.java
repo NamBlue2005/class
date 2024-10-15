@@ -12,7 +12,6 @@ public class Run {
             fan2.setColor("blue");
             fan2.setOn(false);
 
-            // Hiển thị các đối tượng Fan
             System.out.println("Fan 1: " + fan1.toString());
             System.out.println("Fan 2: " + fan2.toString());
         }
